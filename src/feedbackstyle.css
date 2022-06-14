@@ -1,0 +1,161 @@
+.ga-gs-ge-u {
+    background-image: url("images/goodambient goodsociety goodeconomy utopia.jpg");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-gs-be-u {
+    background-image: url("images/goodambient goodsociety badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-gs-e-u {
+    background-image: url("images/goodambient goodsociety economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-bs-ge-u {
+    background-image: url("images/goodambient badsociety goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-bs-be-u {
+    background-image: url("images/goodambient badsociety badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-bs-e-u {
+    background-image: url("images/goodambient badsociety economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-s-ge-u {
+    background-image: url("images/goodambient society goodeconomy utopia.png");
+
+    height: 91.7vh;
+}
+
+.ga-s-be-u {
+    background-image: url("images/goodambient society badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ga-s-e-u {
+    background-image: url("images/goodambient society economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-gs-ge-u {
+    background-image: url("images/badambient goodsociety goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-gs-be-u {
+    background-image: url("images/badambient goodsociety badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-gs-e-u {
+    background-image: url("images/badambient goodsociety economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-bs-ge-u {
+    background-image: url("images/badambient badsociety goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-bs-be-u {
+    background-image: url("images/badambient badsociety badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-bs-e-u {
+    background-image: url("images/badambient badsociety economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-s-ge-u {
+    background-image: url("images/badambient society goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-s-be-u {
+    background-image: url("images/badambient society badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.ba-s-e-u {
+    background-image: url("images/badambient society economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-gs-ge-u {
+    background-image: url("images/ambient goodsociety goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-gs-be-u {
+    background-image: url("images/ambient goodsociety badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-gs-e-u {
+    background-image: url("images/ambient goodsociety economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-bs-ge-u {
+    background-image: url("images/ambient badsociety goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-bs-be-u {
+    background-image: url("images/ambient badsociety badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-bs-e-u {
+    background-image: url("images/ambient badsociety economy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-s-ge-u {
+    background-image: url("images/ambient society goodeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-s-be-u {
+    background-image: url("images/ambient society badeconomy utopia.png");
+    box-shadow: inset 0 4px 4px #025e73;
+    height: 91.7vh;
+}
+
+.a-s-e-u {
+    background-image: url("images/ambient society economy utopia.png");
+    height: 91.7vh;
+    box-shadow: inset 0 4px 4px #025e73
+}

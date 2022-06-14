@@ -1,0 +1,161 @@
+.ga-gs-ge-d {
+    background-image: url("images/goodambient goodsociety goodeconomy dystopia.jpg");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-gs-be-d {
+    background-image: url("images/goodambient goodsociety badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-gs-e-d {
+    background-image: url("images/goodambient goodsociety economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-bs-ge-d {
+    background-image: url("images/goodambient badsociety goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-bs-be-d {
+    background-image: url("images/goodambient badsociety badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-bs-e-d {
+    background-image: url("images/goodambient badsociety economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-s-ge-d {
+    background-image: url("images/goodambient society goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-s-be-d {
+    background-image: url("images/goodambient society badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ga-s-e-d {
+    background-image: url("images/goodambient society economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-gs-ge-d {
+    background-image: url("images/badambient goodsociety goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-gs-be-d {
+    background-image: url("images/badambient goodsociety badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-gs-e-d {
+    background-image: url("images/badambient goodsociety economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-bs-ge-d {
+    background-image: url("images/badambient badsociety goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-bs-be-d {
+    background-image: url("images/badambient badsociety badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-bs-e-d {
+    background-image: url("images/badambient badsociety economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-s-ge-d {
+    background-image: url("images/badambient society goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-s-be-d {
+    background-image: url("images/badambient society badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.ba-s-e-d {
+    background-image: url("images/badambient society economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-gs-ge-d {
+    background-image: url("images/ambient goodsociety goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-gs-be-d {
+    background-image: url("images/ambient goodsociety badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-gs-e-d {
+    background-image: url("images/ambient goodsociety economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-bs-ge-d {
+    background-image: url("images/ambient badsociety goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-bs-be-d {
+    background-image: url("images/ambient badsociety badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-bs-e-d {
+    background-image: url("images/ambient badsociety economy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-s-ge-d {
+    background-image: url("images/ambient society goodeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-s-be-d {
+    background-image: url("images/ambient society badeconomy dystopia.png");
+    box-shadow: inset 0 4px 4px #bf6211;
+    height: 91.7vh;
+}
+
+.a-s-e-d {
+    background-image: url("images/ambient society economy dystopia.png");
+    height: 91.7vh;
+    box-shadow: inset 0 4px 4px #bf6211;
+}

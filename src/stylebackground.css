@@ -1,0 +1,299 @@
+.soos {
+    margin-top: 17em;
+    width: 5em;
+    height: 15em;
+    flex-basis: 0;
+    flex-grow: 1;
+    margin-left: 31em;
+    cursor: pointer;
+
+    max-width: 15em;
+    border-radius: 100px;
+}
+
+.luul {
+    margin-top: 17em;
+    width: 5em;
+    height: 15em;
+    flex-basis: 0;
+    flex-grow: 1;
+    margin-left: 17.5em;
+    cursor: pointer;
+
+    max-width: 15em;
+    border-radius: 100px;
+}
+
+.Alfa {
+    display: flex;
+    background-image: url("benvenuto a utopia 1080.jpg");
+    background-size: contain;
+    flex-direction: column;
+    height: 100vh;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.antiAlfa {
+    background-image: url("benvenuto a dystopia 1080.jpg");
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-shadow: 1px 1px 2px #333333;
+}
+
+.Bigbox {
+    flex-basis: 0;
+    flex-grow: 1;
+    /*background-color: #bfbfbf;*/
+    display: flex;
+    flex-direction: row;
+}
+
+.alfabox {
+    flex-basis: 0;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.capo {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("menu dystopia-utopia 1080.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.antiBigbox {
+    flex-basis: 0;
+    flex-grow: 1;
+    /*background-color: #0d0d0d;*/
+    display: flex;
+    flex-direction: row;
+}
+
+.Littlebox {
+    flex-basis: 0;
+    flex-grow: 1;
+    margin-left: 15px;
+}
+
+.fullapproved {
+    height: 45em;
+    width: 30em;
+    background-color: rgba(245, 245, 245, 0.7);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px 3px rgba(245, 245, 245, 0.7);
+}
+
+.fulldenyed {
+    height: 45em;
+    width: 30em;
+    background-color: rgba(245, 245, 245, 0.7);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 3px 3px 3px rgba(245, 245, 245, 0.7);
+}
+
+.antifullapproved {
+    height: 45em;
+    width: 30em;
+    /*background-color:rgba(29,29,29,0.5);*/
+    background-color: rgba(13, 13, 13, 0.7);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #f2d795;
+    box-shadow: 0 3px 3px 3px rgba(13, 13, 13, 0.7);
+}
+
+.antifulldenyed {
+    height: 45em;
+    width: 30em;
+    background-color: rgba(13, 13, 13, 0.7);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #f2d795;
+    box-shadow: 0 3px 3px 3px rgba(13, 13, 13, 0.7);
+}
+
+.stopping {
+    background-color: #049dbf;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #eee;
+    text-shadow: 1px 1px 2px #000000;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.moving {
+    border-radius: 5px;
+    background-color: #046d7f;
+    opacity: 70%;
+    padding: 5px;
+    margin: 10px;
+    cursor: grabbing;
+    color: #eeeeee;
+    text-shadow: 1px 1px 2px #000000;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.antistopping {
+    background-color: #f2b705;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #111;
+    text-shadow: 1px 1px 2px #333333;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.antimoving {
+    border-radius: 5px;
+    background-color: #d98e04;
+    opacity: 70%;
+    padding: 5px;
+    margin: 10px;
+    cursor: grabbing;
+    color: #111;
+    text-shadow: 1px 1px 2px #333333;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+.goodsociety {
+    color: lightgreen;
+    background-image: url("happysociety.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+}
+
+.society {
+    color: lightblue;
+    background-image: url("neutral society.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+
+}
+
+.badsociety {
+    color: khaki;
+    background-image: url("angrysociety.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+}
+
+.goodambient {
+    color: lightgreen;
+    background-image: url("ambient good.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+}
+
+.ambient {
+    color: lightblue;
+    background-image: url("ambient neutral.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+
+}
+
+.badambient {
+    color: khaki;
+    background-image: url("ambient bad.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+}
+
+.goodeconomy {
+    color: lightgreen;
+    background-image: url("economy positive.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+}
+
+.economy {
+    color: lightblue;
+    background-image: url("economy neutral.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+
+}
+
+.badeconomy {
+    color: khaki;
+    background-image: url("economy negative.png");
+    width: 16em;
+    height: 16em;
+    text-align: center;
+}
+
+.prizecard {
+    padding-top: 4em;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.flexy {
+    display: flex;
+    flex-direction: row;
+}
+
+textarea {
+    resize: none;
+    min-height: 80vh;
+    min-width: 80vw;
+    margin-left: 10vw;
+    font-family: 'Arial';
+    font-size: large;
+    padding-top: 3px;
+    padding-left: 3px;
+    background-color: rgba(181, 181, 181, 0.3);
+    text-shadow: 1px 1px 2px #111111;
+
+}
+
+.MonitorUtopia {
+    height: 100vh;
+    background-image: url("futuristic monitor utopia.png");
+    width: 100%;
+    text-shadow: 1px 1px 2px #000000;
+    background-size: contain;
+}
+
+.MonitorDystopia {
+    height: 100vh;
+    background-image: url("futuristic monitor dystopia.png");
+    width: 100%;
+    text-shadow: 1px 1px 2px #333333;
+    background-size: contain;
+}
+
+.Text {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.Winner {
+    height: 100vh;
+    background-image: url("images/goodambient goodsociety goodeconomy utopia.jpg");
+    text-shadow: 1px 1px 2px #111111;
+}
+
+.AntiWinner {
+    height: 100vh;
+    background-image: url("images/goodambient goodsociety goodeconomy dystopia.jpg");
+    text-shadow: 1px 1px 2px #333333;
+}
