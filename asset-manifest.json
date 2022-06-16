@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/beyouondreactfullscreen/static/css/main.8ca033e3.css",
+    "main.css": "/beyouondreactfullscreen/static/css/main.4ad4d368.css",
     "main.js": "/beyouondreactfullscreen/static/js/main.f4056557.js",
     "static/js/787.e1eb7843.chunk.js": "/beyouondreactfullscreen/static/js/787.e1eb7843.chunk.js",
     "static/media/goodambient goodsociety badeconomy utopia.png": "/beyouondreactfullscreen/static/media/goodambient goodsociety badeconomy utopia.29c0e03467257d03c937.png",
@@ -72,12 +72,12 @@
     "static/media/economy negative.png": "/beyouondreactfullscreen/static/media/economy negative.f359d0fbd2c5fa52b032.png",
     "static/media/ambient neutral.png": "/beyouondreactfullscreen/static/media/ambient neutral.01ccd6f57339816afbae.png",
     "index.html": "/beyouondreactfullscreen/index.html",
-    "main.8ca033e3.css.map": "/beyouondreactfullscreen/static/css/main.8ca033e3.css.map",
+    "main.4ad4d368.css.map": "/beyouondreactfullscreen/static/css/main.4ad4d368.css.map",
     "main.f4056557.js.map": "/beyouondreactfullscreen/static/js/main.f4056557.js.map",
     "787.e1eb7843.chunk.js.map": "/beyouondreactfullscreen/static/js/787.e1eb7843.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ca033e3.css",
+    "static/css/main.4ad4d368.css",
     "static/js/main.f4056557.js"
   ]
 }
